@@ -14,4 +14,4 @@ Being a fast learner, someone who is flexible and trustworthy, I can be relied u
 - 📫 How to reach me: ...
 
 ### Tools:
-#339933
+![Node](https://fontawesome.com/icons/node?f=brands&s=solid)
