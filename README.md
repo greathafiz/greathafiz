@@ -9,7 +9,6 @@ Being a fast learner, someone who is flexible and trustworthy, I can be relied u
 - 🔭 I’m currently working on an exciting project.
 - 🌱 I’m currently learning Vuejs.
 - 👯 I’m looking for a full-time role.
-- 📫 How to reach me: 
 
 ### Tools:
 - Nodejs
