@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 NodeJS Developer
 ----------------
 
-Hi. Welcome to my GitHub profile. My name is Abdul-Hafiz Aderemi. I'm a web developer who mainly writes backend code with Node.js and Express. But I like to think of myself as a full-stack web developer because I built a couple of projects with the Vue.js framework using the new composition API 😄.
+Hi. Welcome to my GitHub profile. My name is Abdul-Hafiz Aderemi. I'm a web developer who mainly writes backend code with Node.js and Express. But I like to think of myself as a full-stack web developer because I've built a couple of projects with the Vue.js framework using the new composition API 😄.
 
 Below are 6 of my project repos that showcase my skills and interests. One of them is a hackathon project (MedAssist). It's an application that helps chronic patients improve their medication adherence and I was responsible for creating the application's API.
 
