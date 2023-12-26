@@ -8,7 +8,9 @@ Hi. Welcome to my GitHub profile. My name is Abdul-Hafiz Aderemi. I'm a web deve
 
 Below are 6 of my project repos that showcase my skills and interests. One of them is a hackathon project (MedAssist). It's an application that helps chronic patients improve their medication adherence and I was responsible for creating the application's API.
 
-I'm active on LinkedIn and Twitter so if you have any questions or would like to speak with me on anything web development. Kindly reach out using any of the social links.
+I’m looking to work on products with real-world impacts or collaborate on open-source projects.
+
+I'm active on LinkedIn and Twitter so you can reach out using any of the social links below.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [Abdul-Hafiz](http://abdulhafiz.vercel.app)
