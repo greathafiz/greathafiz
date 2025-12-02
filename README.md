@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a full stack web developer from Nigeria.<br><br>⚡In my free time, I publish tech articles on Hashnode read non-fiction books.</p>
+<p align="left">I'm a full stack web developer from Nigeria.<br><br>⚡In my free time, I publish tech articles on Hashnode and read non-fiction books.</p>
 
 ###
 
